@@ -1,6 +1,6 @@
 # Ex.No : 4.Execution_of_NetworkCommands
-# Name - KIRTHICK SHA R
-# Reg No - 212224230124
+# Name - VIGNESH P
+# Reg No - 212224230302
 ## AIM :Use of Network commands in Real Time environment
 ## Software : Command Prompt And Network Protocol Analyzer
 ## Procedure: To do this EXPERIMENT- follows these steps:
